@@ -127,6 +127,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
     vendor/xiaomi/land/proprietary/lib64/libfpnav.so:system/lib64/libfpnav.so \
     vendor/xiaomi/land/proprietary/lib64/libfpservice.so:system/lib64/libfpservice.so \
+    vendor/xiaomi/land/proprietary/vendor/lib/hw/audio.primary.msm8937.so:system/vendor/lib/hw/audio.primary.msm8937.so \
+    vendor/xiaomi/land/proprietary/vendor/lib64/hw/audio.primary.msm8937.so:system/vendor/lib64/hw/audio.primary.msm8937.so \
     vendor/xiaomi/land/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
     vendor/xiaomi/land/proprietary/vendor/lib/libChamomilePA.so:system/vendor/lib/libChamomilePA.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libactuator_ad5816g.so:system/vendor/lib/libactuator_ad5816g.so \
