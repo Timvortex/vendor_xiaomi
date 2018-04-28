@@ -1567,7 +1567,6 @@ PRODUCT_PACKAGES += \
     SimSettings \
     ims \
     imssettings \
-    uceShimService \
     CNEService \
     com.qualcomm.location \
     dpmserviceapp \
